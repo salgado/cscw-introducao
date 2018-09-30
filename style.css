@@ -1,0 +1,22 @@
+body {
+    background: #2e4052;
+    color: #f9f9f9;
+    padding-top: 50px;
+}
+
+img {
+    width: 76px;
+    border-radius: 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+svg {
+    fill: #17a2b8;
+}
+
+.btn:hover > svg {
+    fill: #fff;
+}
